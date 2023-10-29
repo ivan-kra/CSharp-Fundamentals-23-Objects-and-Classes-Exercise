@@ -1,0 +1,15 @@
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\02.Articles\bin\Debug\net6.0\02.Articles.exe
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\02.Articles\bin\Debug\net6.0\02.Articles.deps.json
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\02.Articles\bin\Debug\net6.0\02.Articles.runtimeconfig.json
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\02.Articles\bin\Debug\net6.0\02.Articles.dll
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\02.Articles\bin\Debug\net6.0\02.Articles.pdb
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\02.Articles\obj\Debug\net6.0\02.Articles.csproj.AssemblyReference.cache
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\02.Articles\obj\Debug\net6.0\02.Articles.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\02.Articles\obj\Debug\net6.0\02.Articles.AssemblyInfoInputs.cache
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\02.Articles\obj\Debug\net6.0\02.Articles.AssemblyInfo.cs
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\02.Articles\obj\Debug\net6.0\02.Articles.csproj.CoreCompileInputs.cache
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\02.Articles\obj\Debug\net6.0\02.Articles.dll
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\02.Articles\obj\Debug\net6.0\refint\02.Articles.dll
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\02.Articles\obj\Debug\net6.0\02.Articles.pdb
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\02.Articles\obj\Debug\net6.0\02.Articles.genruntimeconfig.cache
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\02.Articles\obj\Debug\net6.0\ref\02.Articles.dll
