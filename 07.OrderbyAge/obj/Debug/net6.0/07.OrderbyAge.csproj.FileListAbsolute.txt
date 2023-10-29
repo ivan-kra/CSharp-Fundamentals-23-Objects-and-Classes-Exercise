@@ -1,0 +1,15 @@
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\07.OrderbyAge\bin\Debug\net6.0\07.OrderbyAge.exe
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\07.OrderbyAge\bin\Debug\net6.0\07.OrderbyAge.deps.json
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\07.OrderbyAge\bin\Debug\net6.0\07.OrderbyAge.runtimeconfig.json
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\07.OrderbyAge\bin\Debug\net6.0\07.OrderbyAge.dll
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\07.OrderbyAge\bin\Debug\net6.0\07.OrderbyAge.pdb
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\07.OrderbyAge\obj\Debug\net6.0\07.OrderbyAge.csproj.AssemblyReference.cache
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\07.OrderbyAge\obj\Debug\net6.0\07.OrderbyAge.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\07.OrderbyAge\obj\Debug\net6.0\07.OrderbyAge.AssemblyInfoInputs.cache
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\07.OrderbyAge\obj\Debug\net6.0\07.OrderbyAge.AssemblyInfo.cs
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\07.OrderbyAge\obj\Debug\net6.0\07.OrderbyAge.csproj.CoreCompileInputs.cache
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\07.OrderbyAge\obj\Debug\net6.0\07.OrderbyAge.dll
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\07.OrderbyAge\obj\Debug\net6.0\refint\07.OrderbyAge.dll
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\07.OrderbyAge\obj\Debug\net6.0\07.OrderbyAge.pdb
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\07.OrderbyAge\obj\Debug\net6.0\07.OrderbyAge.genruntimeconfig.cache
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\07.OrderbyAge\obj\Debug\net6.0\ref\07.OrderbyAge.dll

@@ -1,0 +1,15 @@
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\06.VehicleCatalogue\bin\Debug\net6.0\06.VehicleCatalogue.exe
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\06.VehicleCatalogue\bin\Debug\net6.0\06.VehicleCatalogue.deps.json
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\06.VehicleCatalogue\bin\Debug\net6.0\06.VehicleCatalogue.runtimeconfig.json
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\06.VehicleCatalogue\bin\Debug\net6.0\06.VehicleCatalogue.dll
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\06.VehicleCatalogue\bin\Debug\net6.0\06.VehicleCatalogue.pdb
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\06.VehicleCatalogue\obj\Debug\net6.0\06.VehicleCatalogue.csproj.AssemblyReference.cache
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\06.VehicleCatalogue\obj\Debug\net6.0\06.VehicleCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\06.VehicleCatalogue\obj\Debug\net6.0\06.VehicleCatalogue.AssemblyInfoInputs.cache
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\06.VehicleCatalogue\obj\Debug\net6.0\06.VehicleCatalogue.AssemblyInfo.cs
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\06.VehicleCatalogue\obj\Debug\net6.0\06.VehicleCatalogue.csproj.CoreCompileInputs.cache
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\06.VehicleCatalogue\obj\Debug\net6.0\06.VehicleCatalogue.dll
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\06.VehicleCatalogue\obj\Debug\net6.0\refint\06.VehicleCatalogue.dll
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\06.VehicleCatalogue\obj\Debug\net6.0\06.VehicleCatalogue.pdb
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\06.VehicleCatalogue\obj\Debug\net6.0\06.VehicleCatalogue.genruntimeconfig.cache
+E:\Programirane\02 C# Fundamentals\23 Objects and Classes - Exercise\Objects and Classes Exercise\06.VehicleCatalogue\obj\Debug\net6.0\ref\06.VehicleCatalogue.dll
